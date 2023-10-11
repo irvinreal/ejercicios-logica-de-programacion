@@ -1,4 +1,4 @@
-# ejercicios-logica-de-programacion
+# ejercicios de logica de programacion (jonmircha).
 Ejercicios para desarrollar la lógica de programación
 
 1) Programa una función que cuente el número de caracteres de una cadena de texto,
